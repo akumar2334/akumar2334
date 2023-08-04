@@ -18,7 +18,7 @@ I'm a passionate MERN stack developer who loves creating web applications that d
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Public Repositories )
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akumar2334&show_icons=true&theme=dark)
 
