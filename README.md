@@ -24,6 +24,8 @@ I'm a passionate MERN stack developer who loves creating web applications that d
 
 
 - ...
+## 📈 LeetCode Stats 
+-![Aman's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akumar2334&theme=dark)]
 
 ## 📫 How to Reach Me
 
